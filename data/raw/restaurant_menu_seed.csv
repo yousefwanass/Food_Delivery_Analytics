@@ -1,0 +1,128 @@
+restaurant_name,cuisine,item_name,category,price
+McDonald's,Fast Food,Chicken Burger,Burger,125
+McDonald's,Fast Food,Chicken Wrap,Wrap,130
+McDonald's,Fast Food,Mozzarella Sticks,Side,78
+McDonald's,Fast Food,Fries,Side,57
+McDonald's,Fast Food,McChicken,Burger,145
+McDonald's,Fast Food,Nuggets,Chicken,95
+McDonald's,Fast Food,Cola,Drink,35
+McDonald's,Fast Food,Ice Cream,Dessert,56
+McDonald's,Fast Food,Big Mac,Burger,136
+KFC,Fast Food,Big Mac,Burger,149
+KFC,Fast Food,McChicken,Burger,136
+KFC,Fast Food,Chicken Wings,Chicken,153
+KFC,Fast Food,Cola,Drink,37
+KFC,Fast Food,Mozzarella Sticks,Side,77
+KFC,Fast Food,Ice Cream,Dessert,59
+KFC,Fast Food,Nuggets,Chicken,96
+KFC,Fast Food,Chicken Burger,Burger,109
+KFC,Fast Food,Fries,Side,60
+Burger King,Fast Food,Ice Cream,Dessert,56
+Burger King,Fast Food,Fries,Side,51
+Burger King,Fast Food,McChicken,Burger,132
+Burger King,Fast Food,Big Mac,Burger,152
+Burger King,Fast Food,Chicken Wings,Chicken,130
+Burger King,Fast Food,Nuggets,Chicken,99
+Pizza Hut,Pizza,Chocolate Lava,Dessert,94
+Pizza Hut,Pizza,Margherita Pizza,Pizza,183
+Pizza Hut,Pizza,Pepperoni Pizza,Pizza,231
+Pizza Hut,Pizza,Cheese Sticks,Side,89
+Pizza Hut,Pizza,Tiramisu,Dessert,121
+Pizza Hut,Pizza,BBQ Chicken Pizza,Pizza,267
+Domino's Pizza,Pizza,Cheese Sticks,Side,95
+Domino's Pizza,Pizza,7UP,Drink,35
+Domino's Pizza,Pizza,Chicken Ranch,Pizza,243
+Domino's Pizza,Pizza,Tiramisu,Dessert,121
+Domino's Pizza,Pizza,Garlic Bread,Side,76
+Domino's Pizza,Pizza,Pepperoni Pizza,Pizza,204
+Domino's Pizza,Pizza,Pepsi,Drink,32
+Papa John's,Pizza,Chocolate Lava,Dessert,94
+Papa John's,Pizza,Tiramisu,Dessert,114
+Papa John's,Pizza,BBQ Chicken Pizza,Pizza,275
+Papa John's,Pizza,Margherita Pizza,Pizza,164
+Papa John's,Pizza,Cheese Sticks,Side,98
+Papa John's,Pizza,Chicken Ranch,Pizza,259
+Papa John's,Pizza,7UP,Drink,33
+Papa John's,Pizza,Pepperoni Pizza,Pizza,235
+Buffalo Burger,Burgers,Mushroom Burger,Burger,204
+Buffalo Burger,Burgers,Classic Burger,Burger,174
+Buffalo Burger,Burgers,Cheese Burger,Burger,161
+Buffalo Burger,Burgers,Loaded Fries,Side,98
+Buffalo Burger,Burgers,Milkshake,Drink,96
+Buffalo Burger,Burgers,Onion Rings,Side,63
+Buffalo Burger,Burgers,Cola,Drink,32
+Bazooka,Fast Food,Cola,Drink,34
+Bazooka,Fast Food,Nuggets,Chicken,90
+Bazooka,Fast Food,Chicken Wings,Chicken,127
+Bazooka,Fast Food,McChicken,Burger,140
+Bazooka,Fast Food,Ice Cream,Dessert,56
+Bazooka,Fast Food,Big Mac,Burger,133
+Bazooka,Fast Food,Mozzarella Sticks,Side,81
+Bazooka,Fast Food,Chicken Burger,Burger,126
+Hardee's,Burgers,Cola,Drink,34
+Hardee's,Burgers,Loaded Fries,Side,87
+Hardee's,Burgers,Classic Burger,Burger,149
+Hardee's,Burgers,Cheese Burger,Burger,163
+Hardee's,Burgers,Onion Rings,Side,68
+Hardee's,Burgers,Mushroom Burger,Burger,201
+B Laban,Desserts,Ice Cream,Dessert,54
+B Laban,Desserts,Rice Pudding,Dessert,70
+B Laban,Desserts,Molten Cake,Dessert,93
+B Laban,Desserts,Cheesecake,Dessert,98
+B Laban,Desserts,Coffee,Drink,70
+El Abd,Desserts,Ice Cream,Dessert,56
+El Abd,Desserts,Coffee,Drink,67
+El Abd,Desserts,Cheesecake,Dessert,93
+El Abd,Desserts,Rice Pudding,Dessert,64
+El Abd,Desserts,Molten Cake,Dessert,90
+Koshary El Tahrir,Egyptian,Mahshi,Main Course,136
+Koshary El Tahrir,Egyptian,Hawawshi,Main Course,97
+Koshary El Tahrir,Egyptian,Rice,Side,35
+Koshary El Tahrir,Egyptian,Koshary,Main Course,82
+Koshary El Tahrir,Egyptian,Mixed Grill,Main Course,245
+Koshary El Tahrir,Egyptian,Molokhia,Main Course,83
+Koshary El Tahrir,Egyptian,Grilled Kofta,Main Course,160
+Gad,Egyptian,Rice,Side,35
+Gad,Egyptian,Molokhia,Main Course,95
+Gad,Egyptian,Mixed Grill,Main Course,278
+Gad,Egyptian,Mahshi,Main Course,133
+Gad,Egyptian,Grilled Kofta,Main Course,158
+Gad,Egyptian,Koshary,Main Course,96
+Zooba,Egyptian,Koshary,Main Course,99
+Zooba,Egyptian,Molokhia,Main Course,88
+Zooba,Egyptian,Rice,Side,37
+Zooba,Egyptian,Mahshi,Main Course,139
+Zooba,Egyptian,Grilled Kofta,Main Course,177
+Zooba,Egyptian,Mixed Grill,Main Course,262
+Spectra,Cafe,Espresso,Coffee,60
+Spectra,Cafe,Croissant,Bakery,55
+Spectra,Cafe,Latte,Coffee,93
+Spectra,Cafe,Cheesecake,Dessert,95
+Spectra,Cafe,Cappuccino,Coffee,83
+Cilantro,Cafe,Espresso,Coffee,58
+Cilantro,Cafe,Croissant,Bakery,57
+Cilantro,Cafe,Mocha,Coffee,102
+Cilantro,Cafe,Cappuccino,Coffee,89
+Cilantro,Cafe,Latte,Coffee,88
+Cilantro,Cafe,Cheesecake,Dessert,100
+Costa Coffee,Cafe,Cheesecake,Dessert,90
+Costa Coffee,Cafe,Mocha,Coffee,101
+Costa Coffee,Cafe,Latte,Coffee,84
+Costa Coffee,Cafe,Espresso,Coffee,56
+Costa Coffee,Cafe,Cappuccino,Coffee,95
+Starbucks,Cafe,Espresso,Coffee,66
+Starbucks,Cafe,Cheesecake,Dessert,103
+Starbucks,Cafe,Croissant,Bakery,56
+Starbucks,Cafe,Mocha,Coffee,91
+Starbucks,Cafe,Latte,Coffee,92
+Starbucks,Cafe,Cappuccino,Coffee,89
+TBS Bakery,Bakery,Chocolate Donut,Bakery,49
+TBS Bakery,Bakery,Cinnamon Roll,Bakery,65
+TBS Bakery,Bakery,Baguette,Bakery,35
+TBS Bakery,Bakery,Muffin,Bakery,56
+TBS Bakery,Bakery,Croissant,Bakery,58
+Paul,Bakery,Chocolate Donut,Bakery,47
+Paul,Bakery,Muffin,Bakery,51
+Paul,Bakery,Croissant,Bakery,55
+Paul,Bakery,Baguette,Bakery,37
+Paul,Bakery,Cinnamon Roll,Bakery,68

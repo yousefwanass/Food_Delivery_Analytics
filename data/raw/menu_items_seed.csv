@@ -1,0 +1,29 @@
+cuisine,item_name,category,price
+Fast Food,Big Mac,Burger,145
+Fast Food,Chicken Burger,Burger,120
+Fast Food,Fries,Side,55
+Fast Food,Cola,Drink,35
+Fast Food,Nuggets,Chicken,95
+Pizza,Pepperoni Pizza,Pizza,220
+Pizza,Margherita Pizza,Pizza,180
+Pizza,Chicken Ranch,Pizza,240
+Pizza,Garlic Bread,Side,75
+Pizza,Pepsi,Drink,35
+Burgers,Classic Burger,Burger,160
+Burgers,Cheese Burger,Burger,175
+Burgers,Loaded Fries,Side,90
+Desserts,Rice Pudding,Dessert,65
+Desserts,Molten Cake,Dessert,95
+Desserts,Kunafa,Dessert,85
+Desserts,Ice Cream,Dessert,55
+Egyptian,Koshary,Main Course,90
+Egyptian,Hawawshi,Main Course,95
+Egyptian,Grilled Kofta,Main Course,170
+Egyptian,Mixed Grill,Main Course,260
+Cafe,Latte,Coffee,85
+Cafe,Cappuccino,Coffee,90
+Cafe,Espresso,Coffee,60
+Cafe,Cheesecake,Dessert,95
+Bakery,Croissant,Bakery,55
+Bakery,Chocolate Donut,Bakery,45
+Bakery,Baguette,Bakery,35

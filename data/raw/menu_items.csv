@@ -1,0 +1,128 @@
+item_id,restaurant_id,item_name,category,price
+1,1,Chicken Burger,Burger,125
+2,1,Chicken Wrap,Wrap,130
+3,1,Mozzarella Sticks,Side,78
+4,1,Fries,Side,57
+5,1,McChicken,Burger,145
+6,1,Nuggets,Chicken,95
+7,1,Cola,Drink,35
+8,1,Ice Cream,Dessert,56
+9,1,Big Mac,Burger,136
+10,2,Big Mac,Burger,149
+11,2,McChicken,Burger,136
+12,2,Chicken Wings,Chicken,153
+13,2,Cola,Drink,37
+14,2,Mozzarella Sticks,Side,77
+15,2,Ice Cream,Dessert,59
+16,2,Nuggets,Chicken,96
+17,2,Chicken Burger,Burger,109
+18,2,Fries,Side,60
+19,3,Ice Cream,Dessert,56
+20,3,Fries,Side,51
+21,3,McChicken,Burger,132
+22,3,Big Mac,Burger,152
+23,3,Chicken Wings,Chicken,130
+24,3,Nuggets,Chicken,99
+25,4,Chocolate Lava,Dessert,94
+26,4,Margherita Pizza,Pizza,183
+27,4,Pepperoni Pizza,Pizza,231
+28,4,Cheese Sticks,Side,89
+29,4,Tiramisu,Dessert,121
+30,4,BBQ Chicken Pizza,Pizza,267
+31,5,Cheese Sticks,Side,95
+32,5,7UP,Drink,35
+33,5,Chicken Ranch,Pizza,243
+34,5,Tiramisu,Dessert,121
+35,5,Garlic Bread,Side,76
+36,5,Pepperoni Pizza,Pizza,204
+37,5,Pepsi,Drink,32
+38,6,Chocolate Lava,Dessert,94
+39,6,Tiramisu,Dessert,114
+40,6,BBQ Chicken Pizza,Pizza,275
+41,6,Margherita Pizza,Pizza,164
+42,6,Cheese Sticks,Side,98
+43,6,Chicken Ranch,Pizza,259
+44,6,7UP,Drink,33
+45,6,Pepperoni Pizza,Pizza,235
+46,7,Mushroom Burger,Burger,204
+47,7,Classic Burger,Burger,174
+48,7,Cheese Burger,Burger,161
+49,7,Loaded Fries,Side,98
+50,7,Milkshake,Drink,96
+51,7,Onion Rings,Side,63
+52,7,Cola,Drink,32
+53,8,Cola,Drink,34
+54,8,Nuggets,Chicken,90
+55,8,Chicken Wings,Chicken,127
+56,8,McChicken,Burger,140
+57,8,Ice Cream,Dessert,56
+58,8,Big Mac,Burger,133
+59,8,Mozzarella Sticks,Side,81
+60,8,Chicken Burger,Burger,126
+61,9,Cola,Drink,34
+62,9,Loaded Fries,Side,87
+63,9,Classic Burger,Burger,149
+64,9,Cheese Burger,Burger,163
+65,9,Onion Rings,Side,68
+66,9,Mushroom Burger,Burger,201
+67,10,Ice Cream,Dessert,54
+68,10,Rice Pudding,Dessert,70
+69,10,Molten Cake,Dessert,93
+70,10,Cheesecake,Dessert,98
+71,10,Coffee,Drink,70
+72,11,Ice Cream,Dessert,56
+73,11,Coffee,Drink,67
+74,11,Cheesecake,Dessert,93
+75,11,Rice Pudding,Dessert,64
+76,11,Molten Cake,Dessert,90
+77,12,Mahshi,Main Course,136
+78,12,Hawawshi,Main Course,97
+79,12,Rice,Side,35
+80,12,Koshary,Main Course,82
+81,12,Mixed Grill,Main Course,245
+82,12,Molokhia,Main Course,83
+83,12,Grilled Kofta,Main Course,160
+84,13,Rice,Side,35
+85,13,Molokhia,Main Course,95
+86,13,Mixed Grill,Main Course,278
+87,13,Mahshi,Main Course,133
+88,13,Grilled Kofta,Main Course,158
+89,13,Koshary,Main Course,96
+90,14,Koshary,Main Course,99
+91,14,Molokhia,Main Course,88
+92,14,Rice,Side,37
+93,14,Mahshi,Main Course,139
+94,14,Grilled Kofta,Main Course,177
+95,14,Mixed Grill,Main Course,262
+96,15,Espresso,Coffee,60
+97,15,Croissant,Bakery,55
+98,15,Latte,Coffee,93
+99,15,Cheesecake,Dessert,95
+100,15,Cappuccino,Coffee,83
+101,16,Espresso,Coffee,58
+102,16,Croissant,Bakery,57
+103,16,Mocha,Coffee,102
+104,16,Cappuccino,Coffee,89
+105,16,Latte,Coffee,88
+106,16,Cheesecake,Dessert,100
+107,17,Cheesecake,Dessert,90
+108,17,Mocha,Coffee,101
+109,17,Latte,Coffee,84
+110,17,Espresso,Coffee,56
+111,17,Cappuccino,Coffee,95
+112,18,Espresso,Coffee,66
+113,18,Cheesecake,Dessert,103
+114,18,Croissant,Bakery,56
+115,18,Mocha,Coffee,91
+116,18,Latte,Coffee,92
+117,18,Cappuccino,Coffee,89
+118,19,Chocolate Donut,Bakery,49
+119,19,Cinnamon Roll,Bakery,65
+120,19,Baguette,Bakery,35
+121,19,Muffin,Bakery,56
+122,19,Croissant,Bakery,58
+123,20,Chocolate Donut,Bakery,47
+124,20,Muffin,Bakery,51
+125,20,Croissant,Bakery,55
+126,20,Baguette,Bakery,37
+127,20,Cinnamon Roll,Bakery,68

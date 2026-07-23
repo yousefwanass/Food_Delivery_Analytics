@@ -1,0 +1,21 @@
+restaurant_id,restaurant_name,cuisine,city,rating,opening_time,closing_time
+1,McDonald's,Fast Food,Cairo,4.9,10:00,00:00
+2,KFC,Fast Food,Tanta,4.8,10:00,22:00
+3,Burger King,Fast Food,Cairo,3.9,10:00,01:00
+4,Pizza Hut,Pizza,Cairo,3.8,10:00,23:00
+5,Domino's Pizza,Pizza,Cairo,3.6,10:00,22:00
+6,Papa John's,Pizza,Alexandria,4.8,10:00,01:00
+7,Buffalo Burger,Burgers,Cairo,4.3,10:00,01:00
+8,Bazooka,Fast Food,Cairo,3.8,10:00,23:00
+9,Hardee's,Burgers,Zagazig,4.5,10:00,00:00
+10,B Laban,Desserts,Cairo,4.7,10:00,00:00
+11,El Abd,Desserts,Cairo,3.7,10:00,23:00
+12,Koshary El Tahrir,Egyptian,Alexandria,3.9,10:00,23:00
+13,Gad,Egyptian,Giza,4.4,10:00,23:00
+14,Zooba,Egyptian,Sohag,4.9,10:00,01:00
+15,Spectra,Cafe,Alexandria,4.2,10:00,23:00
+16,Cilantro,Cafe,Zagazig,4.5,10:00,22:00
+17,Costa Coffee,Cafe,Giza,4.1,10:00,22:00
+18,Starbucks,Cafe,Cairo,4.6,10:00,01:00
+19,TBS Bakery,Bakery,Cairo,3.6,10:00,22:00
+20,Paul,Bakery,Giza,4.0,10:00,22:00
